@@ -1,0 +1,38 @@
+import os
+import pandas as pd
+
+path="E:\AI\LibrariesForAI\Pandas\data"
+inputFileName="supermarket_sales.csv"
+
+def summaryOfData(path,inputFileName):
+    pathandFileName=path+"\\"+inputFileName
+    extension = os.path.basename(pathandFileName).split(".")[1]
+    if extension =="csv":
+        df = pd.read_csv(pathandFileName)
+    elif extension =="xlsx":
+        df = pd.read_excel(pathandFileName)
+    elif extension =="xls":
+        df = pd.read_excel(pathandFileName)
+    elif extension =="json":
+        df = pd.read_json(pathandFileName)
+    else:
+        print("Extension not found, Please recheck!")
+    print("The Name of the Input File : ",inputFileName )
+    print("="*60+"\n")
+    print("Top 2 rows of the Dataframe :\n\n",df.head(2))
+    print("*"*60 +"\n")
+    print("Last 2 rows of the Dataframe :\n\n",df.tail(2))
+    print("*"*60 +"\n")
+    print("The Shape of the input data is :",df.shape)
+    print("*"*60 +"\n")
+    print("The DataType of the input data is :\n\n",df.dtypes)
+    print("*"*60 +"\n")
+    print("The Basic Information about the input data is :\n\n")
+    print(df.info())
+    print("*"*60 +"\n")
+    print("Describe the Numerical Dtypes of input data is :\n\n",df.describe())
+    print("*"*60 +"\n")
+    print("Describe the Categorical Dtypes of input data is :\n\n",df.describe(include="O"))
+    print("*"*60 +"\n")
+    print("Finding the Null Values if any for the input data :\n\n",df.isnull().sum())
+    print("*"*60 +"\n")
