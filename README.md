@@ -52,7 +52,7 @@ Before pitching into the world of Regression, i would like you to look into this
   
 - K-Nearest Neighbour
 
-  - Check out the code [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Support_vector_machine_kernal.ipynb).
+  - Check out the code [here]https://github.com/Sarathns05/Machine_Learning_Modules/blob/main/Supervised_Learning/17_KNN/SocilaNetwork_KNN.ipynb).
   
 - Support Vector Machine
 
