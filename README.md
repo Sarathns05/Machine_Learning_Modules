@@ -56,7 +56,7 @@ Before pitching into the world of Regression, i would like you to look into this
   
 - Support Vector Machine
 
-  - Check out the code [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Support_vector_machine.ipynb).
+  - Check out the code [here](https://github.com/Sarathns05/Machine_Learning_Modules/blob/main/Supervised_Learning/14_SVM/Cancer_SVC_ClassN.ipynb).
   - Check out the Reference from [Ref1](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python).
   - Check out the Reference from [Ref2](https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/).
   
