@@ -46,7 +46,7 @@ Before pitching into the world of Regression, i would like you to look into this
 
 - Logistict Regression
 
-  - Check out the code for Diabetes Dataset from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Logistic_Regression_Diabetes.ipynb).
+  - Check out the code from [here](https://github.com/Sarathns05/Machine_Learning_Modules/blob/main/Supervised_Learning/8_Logistic_Regression/Exercise/logistic_reg_assignment_class(1).ipynb).
   - Check out the Reference from [Ref1](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python).
   - Check out the Reference from [Ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24).
   
