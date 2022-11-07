@@ -23,7 +23,7 @@ Before pitching into the world of Regression, i would like you to look into this
   
 - Polynomial Regression
 
-  - Check out the code for Boston Dataset from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Polynomial_Regression_boston.ipynb).
+  - Check out the code for Boston Dataset from [here](https://github.com/Sarathns05/Machine_Learning_Modules/blob/main/Supervised_Learning/7_Polynomial_Regression/polynomial_regression.ipynb).
   - Check out the Reference from [Ref1](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491).
   - Check out the Reference from [Ref2](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/).
   
