@@ -16,8 +16,7 @@ Before pitching into the world of Regression, i would like you to look into this
 
 - Simple & Multiple Linear Regression
 
-  - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Multiple_Linear_Regression.md).
-   - Check out the code for Boston Dataset from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Linear_Regression_boston.ipynb).
+  - Check out the code from [here](https://github.com/Sarathns05/Machine_Learning_Modules/blob/main/Supervised_Learning/2_Linear_Regression_multivariate/Multi_linear_Regression.ipynb).
   - Check out the Reference from [Ref1](https://medium.com/@pytholabs/multivariate-linear-regression-from-scratch-in-python-5c4f219be6a).
   - Check out the Reference from [Ref2](https://www.datacamp.com/community/tutorials/essentials-linear-regression-python).
   - Check out the Reference from [Ref3](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155).
