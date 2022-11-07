@@ -30,7 +30,7 @@ Before pitching into the world of Regression, i would like you to look into this
 - Support Vector for Regression (SVR)
 - Decision Tree Regression
 
-  - Check out the code for Cleaned Titanic Dataset from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Decision_Tree.ipynb).
+  - Check out the code from [here](https://github.com/Sarathns05/Machine_Learning_Modules/blob/main/Supervised_Learning/12_Decision_Tree/iris_classification_class.ipynb).
   - Check out the Reference from [Ref1](https://courses.analyticsvidhya.com/courses/take/getting-started-with-decision-trees/lessons/8157461-introduction-to-decision-tree).
   - Check out the Reference from [Ref2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/).
   - Check out the Reference from [Ref3](https://www.datacamp.com/community/tutorials/decision-tree-classification-python).
