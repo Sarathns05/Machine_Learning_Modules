@@ -84,9 +84,3 @@ Before pitching into the world of Regression, i would like you to look into this
 ### Clustering:
 
 - K-Mean Clustering
-- Hierachial Clustering:
-
-### Assocation Rule Learning:
-
-- Apriori
-- Eclat
