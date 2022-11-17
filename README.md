@@ -1,5 +1,5 @@
 
-Here you will find the Machine learning related Techinques:
+Here you will find the Machine learning related Techinques :
 
 ## Machine Learning Techniques
 
